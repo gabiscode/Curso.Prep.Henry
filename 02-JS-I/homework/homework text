@@ -1,0 +1,11 @@
+Variables: Una variable es una herramienta para poder guardar valores, cosas que necesites utilizar más adelante. Estas variables se pueden cambiar, borrar.
+
+Strings: Son palabras en conjunto (como un texto) que se identifican cuando estan entre comillas, también puede decirse cadena.
+
+Funciones: Una función es una parte muy importante de la programación, ya que son tipos particulares de objetos que tienen las mismas propiedades que cualquier objeto. Estas tienen la propiedad de calcular, cambiar variables.
+argumentos de una funcion: (console.log) es cuando le das a una función distintos valores para que te devuelva lo que vos queres o lo que le estas indicando que haga. 
+Return: es cuando devuelve el resultado de algo, no se puede acceder a nada mas dentro de esa funcion sin que sea lo que se devuelve, en caso de que llegue  auna declaracion de retorno la funcion se detiene inmediatamente y devuelve lo que se declaró 
+
+Declaraciones if: es una funcion para que compruebe si es cierto y siguiendo a lo que sigue en caso de que lo sea o avanzando si no lo es. (verdadero o falso)
+
+Valores booleanos: En JavaScript Significa que tiene dos opciones, verdadero o falso. Son los valores posibles que tiene.
