@@ -1,0 +1,7 @@
+for: Los bucles for sirven para poder evaluar una variable las veces que queramos, terminará cuando llegue al final del ciclo o cuando una condicion se cumpla, o sea, sea true.
+
+Los operadores logicos sirven para comparar dos expresiones
+&& (Y)sirve para cuando queremos saber si las dos expresiones son verdaderas, en ese caso devolverá true, de lo contrario devolverá false.
+|| (O) sirve para cuando comparamos dos expresiones y queremos saber si una o ambas son verdaderas, si no es el caso, devolverá false.
+ ! (NO) este operador es para utilizar en el caso que queramos saber lo contrario de lo que pasa.
+ 
